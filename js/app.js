@@ -5,7 +5,8 @@ $(document).ready(function(){
         slidesToScroll: 1,
         dots: true,
         speed: 300,
-        autoplay: true,
+        // autoplay: true,
         autoplaySpeed: 2000,
+
     });
   });
