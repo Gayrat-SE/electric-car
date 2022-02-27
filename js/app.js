@@ -7,6 +7,6 @@ $(document).ready(function(){
         speed: 300,
         autoplay: true,
         autoplaySpeed: 2000,
-
+        
     });
   });
